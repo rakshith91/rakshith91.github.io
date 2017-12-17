@@ -200,8 +200,9 @@ keybase-in-footer: False
 
 pages_list:
   About: 'about'
-  Projects: 'latest-post'
   Timeline: 'timeline'
+  Work: 'work'
+  Projects: 'projects'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
