@@ -33,15 +33,15 @@ author: "Sairam Rakshith Bhyravabhotla"
 title: "{ Sairam Rakshith Bhyravabhotla }"
 description: "Website of Rakshith Bhyravabhotla."
 keywords: "Rakshith, Bhyravabhotla, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+favicon: "/img/darth.png"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/darth.png"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/watermark.png"
 
 ##############################
 # Dynamic Text on the Header #
@@ -132,28 +132,28 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/cerner.png"
     date: "Jun 2017 - Present"
     description: "Software Engineer @ Cerner Corporation, Kansas City"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/soic.jpeg"
     date: "Aug 2016 - Dec 2016"
     description: "Associate Instructor @ SoIC, Indiana University, Bloomington"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/cognitive.png"
     date: "May 2016 - May 2017"
     description: "Python Programmer @ Cognitive Science Department, Indiana University"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/iu.jpg"
     date: "Aug 2015 - May 2017"
     description: "MS in Computer Science @ Indiana University, Bloomington"
-  - image: ""
+  - image: "/img/timeline/cogni.jpg"
     date: "Sep 2013 - May 2015"
     description: "Programmer Analyst @ Cognizant Technology Solutions, India"
-  - image: ""
+  - image: "/img/timeline/bitm.jpg"
     date: "Aug 2009 - Aug 2013"
     description: "BE in Computer Science @ Birla Institute of Technology, Mesra"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/helloworld.png"
 
 ###########
 # Contact #
