@@ -133,11 +133,17 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "Jun 2017 - Present"
+    description: "Software Engineer @ Cerner Corporation, Kansas City"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "Aug 2015 - May 2017"
+    description: "MS in Computer Science @ Indiana University, Bloomington"
+  - image: ""
+    date: "Sep 2013 - May 2015"
+    description: "Programmer Analyst @ Cognizant Technology Solutions, India"
+  - image: ""
+    date: "Aug 2009 - Aug 2013"
+    description: "BE in Computer Science @ Birla Institute of Technology, Mesra"
 
 # First image of the Timeline
 
