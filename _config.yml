@@ -39,7 +39,7 @@ favicon: "/img/darth.png"
 # Header layout #
 ################
 
-black-favicon: "/img/darth.png"
+black-favicon: "/img/darth_white.png"
 
 background-img: "../img/watermark.png"
 
@@ -213,7 +213,6 @@ keybase-in-footer: False
 pages_list:
   About: 'about'
   Timeline: 'timeline'
-  Work: 'work'
   Projects: 'projects'
   Contact: 'contact'
 
