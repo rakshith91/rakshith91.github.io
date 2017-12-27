@@ -155,13 +155,25 @@ events:
 
 timeline-img: "/img/timeline/helloworld.png"
 
+############
+# Projects #
+############
+
+projects:
+    - title: "City Navigattion"
+      url: "https://github.com/rakshith91/CityNavigation"
+      description: "Navigation system for USA, Canada and Mexico with four options: shortest distance, least time, scenic and least number of turns."
+    - title: "Stack Analysis"
+      url: "https://github.com/rakshith91/Digital-StoryTelling-For-StackExchange"
+      description: "A web app that gives interesting visualizations on Stack Overflow Data."
+
 ###########
 # Contact #
 ###########
 
 email: "rakshith.bhyravabhotla@gmail.com"
 
-################
+################s
 # Author Blurb #
 ################
 
