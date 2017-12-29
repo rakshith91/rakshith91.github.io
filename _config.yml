@@ -177,7 +177,7 @@ projects:
     - title: "Spam Classification"
       url: "https://github.com/rakshith91/Spam-Classification"
       description: "Classifies if a mail is spam or not with an accuracy of 98%. Naive Bayes and Decision Trees have been used"
-    - title: "Image Orientation"
+    - title: "Image Orientation Detection"
       url: "https://github.com/rakshith91/Neural-Nets"
       description: "The orientation of an image is predicted using two methods: Neural Networks and K-Nearest Neighbors."
     - title: "Customer Loyalty Classification"
