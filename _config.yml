@@ -39,7 +39,7 @@ favicon: "/img/darth.png"
 # Header layout #
 ################
 
-black-favicon: "/img/darth.png"
+black-favicon: "/img/darth_white.png"
 
 background-img: "../img/watermark.png"
 
@@ -155,13 +155,52 @@ events:
 
 timeline-img: "/img/timeline/helloworld.png"
 
+############
+# Projects #
+############
+
+projects:
+    - title: "City Navigation"
+      url: "https://github.com/rakshith91/CityNavigation"
+      description: "Implemented a prototype of Google Maps that gives shortest route in terms of distance, fastest route, route with fewest turns
+                    and scenic route that avoids highways given source and destination. Used DFS, BFS, A* search and Iterative Depth first Search algorithms."
+    - title: "Stack Analysis"
+      url: "https://github.com/rakshith91/Digital-StoryTelling-For-StackExchange"
+      description: "Analyzed Stackoverflow metadata providing insights on posts, users, skills and locations. Hosted the data constituting 34 million posts, 8 million users on PostgreSQL.
+                    Provided visualizations using Google Charts and D3.js on a web app. Implemented Apriori Algorithm to find out skill sets that go well together and most commonly associated."
+    - title: "Mountain Edge Detection"
+      url: "https://github.com/rakshith91/POS-Tagger/tree/master/part2"
+      description: "Detected the gradient of mountains using Markov Chain Monte Carlo approach. Gibbs sampling is implemented in Python using numpy."
+    - title: "Parts of Speech Tagging"
+      url: "https://github.com/rakshith91/POS-Tagger"
+      description: "Tagged Parts of Speech of words in a sentence using Naive Bayes and Hidden Markov Model. Both bi-gram and tri-gram HMMs have been used."
+    - title: "Spam Classification"
+      url: "https://github.com/rakshith91/Spam-Classification"
+      description: "Classifies if a mail is spam or not with an accuracy of 98%. Naive Bayes and Decision Trees have been used."
+    - title: "Image Orientation Detection"
+      url: "https://github.com/rakshith91/Neural-Nets"
+      description: "The orientation of an image is predicted using two methods: Neural Networks and K-Nearest Neighbors."
+    - title: "Customer Loyalty Classification"
+      url: "https://github.com/rakshith91/RANG-Technologies-Data-mining-Competition"
+      description: "Predicted if a customer is loyal or not using unknown parameters. Finished in top 5% of the competition held by Rang Technologies. xgBoost algorithm has been used."
+    - title: "Music Genre Classification"
+      url: "http://homes.soic.indiana.edu/bsairamr/Rakshith%20Bhyravabhotla%20-%20main.pdf"
+      description: "Classification model to predict the Genre of a music piece. The audio bits are classified into 6 genres widely : Classical, Rock , Jazz, Blues, Metal and Pop.
+                    Used an ensemble Random Forests, SVM(Support Vector Machines) and KNN algorithms and achieved an accuracy of 78.14% ."
+    - title: "Song Recognition Tool"
+      url: ""
+      description: "Developed a tool for song recognition which listens to a song (or part of a song) and recognizes what song is playing."
+    - title: "Search Engine for Yelp Data Set"
+      url: ""
+      description: "Predict Categories of a business in Yelp Data Set using only the review text information using Information Retrieval approach. Implemented Page rank algorithm and used Lucene API for indexing."
+
 ###########
 # Contact #
 ###########
 
 email: "rakshith.bhyravabhotla@gmail.com"
 
-################
+################s
 # Author Blurb #
 ################
 
@@ -213,7 +252,6 @@ keybase-in-footer: False
 pages_list:
   About: 'about'
   Timeline: 'timeline'
-  Work: 'work'
   Projects: 'projects'
   Contact: 'contact'
 
