@@ -5,14 +5,10 @@
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
       {{ page.content | markdownify }}
-      <ul>
         {% for project in site.projects %}
-          <li>
-              <h4><a href="{{ project.url  }}">{{ project.title  }}</a></h4>
-              <p>{{ project.description }}</p>
-          </li>
+        <h4><i class="fa fa-github"></i> <a target="_blank" href="{{ project.url  }}">{{ project.title  }}</a></h4>
+              <p style="text-align:justify">{{ project.description }}</p>
         {% endfor %}
-      </ul>
     </div>
   </div>
 </section>
