@@ -29,8 +29,8 @@ force-https: False
 #############
 
 lang: "en"
-author: "Sairam Rakshith Bhyravabhotla"
-title: "{ Sairam Rakshith Bhyravabhotla }"
+author: "Rakshith Bhyravabhotla"
+title: "{ Rakshith Bhyravabhotla }"
 description: "Website of Rakshith Bhyravabhotla."
 keywords: "Rakshith, Bhyravabhotla, personal, jekyll, theme"
 favicon: "/img/darth.png"
@@ -41,7 +41,7 @@ favicon: "/img/darth.png"
 
 black-favicon: "/img/darth_white.png"
 
-background-img: "../img/matrix.gif"
+background-img: "../img/watermark.png"
 
 ##############################
 # Dynamic Text on the Header #
