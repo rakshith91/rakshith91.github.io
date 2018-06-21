@@ -198,15 +198,15 @@ projects:
 #Open Source Contributions
 ##########
 open_source_contributions:
-    -title: "terra-notification-dialog"
-     url: "https://www.npmjs.com/package/terra-notification-dialog"
-     description: "terra-notification-dialog is a notification dialog component built over the terra-abstract-modal. It is a common component to be used for confirmation/acceptance criteria style dialogs."
-    -title: "terra-dialog-modal"
-     url: "https://www.npmjs.com/package/terra-dialog-modal"
-     description: "he Dialog Modal allows for dynamic height modals."
-    -title: "terra-clinical"
-     url: "https://github.com/cerner/terra-clinical/"
-     description: "Uplifted terra-clinical framework testing to consume webdriver tests."
+    - title: "Terra Notification Dialog"
+      url: "https://www.npmjs.com/package/terra-notification-dialog"
+      description: "terra-notification-dialog is a component built over the terra-abstract-modal. It is a common component to be used for confirmation/acceptance criteria style dialogs."
+    - title: "terra-dialog-modal"
+      url: "https://www.npmjs.com/package/terra-dialog-modal"
+      description: "The Dialog Modal allows for dynamic height modals. It is placed at a z-index of 8001, below the notification-dialog."
+    - title: "terra-clinical"
+      url: "https://github.com/cerner/terra-clinical/"
+      description: "Uplifted terra-clinical framework testing to consume webdriver tests."
 ###########
 # Contact #
 ###########
