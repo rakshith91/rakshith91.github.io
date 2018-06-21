@@ -194,6 +194,19 @@ projects:
       url: ""
       description: "Predict Categories of a business in Yelp Data Set using only the review text information using Information Retrieval approach. Implemented Page rank algorithm and used Lucene API for indexing."
 
+##########
+#Open Source Contributions
+##########
+open_source_contributions:
+    -title: "terra-notification-dialog"
+     url: "https://www.npmjs.com/package/terra-notification-dialog"
+     description: "terra-notification-dialog is a notification dialog component built over the terra-abstract-modal. It is a common component to be used for confirmation/acceptance criteria style dialogs."
+    -title: "terra-dialog-modal"
+     url: "https://www.npmjs.com/package/terra-dialog-modal"
+     description: "he Dialog Modal allows for dynamic height modals."
+    -title: "terra-clinical"
+     url: "https://github.com/cerner/terra-clinical/"
+     description: "Uplifted terra-clinical framework testing to consume webdriver tests."
 ###########
 # Contact #
 ###########
@@ -252,6 +265,7 @@ keybase-in-footer: False
 pages_list:
   About: 'about'
   Timeline: 'timeline'
+  Open Source Contributions: 'open_source_contributions'
   Projects: 'projects'
   Contact: 'contact'
 
