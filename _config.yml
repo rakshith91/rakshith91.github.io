@@ -132,8 +132,11 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/msl.png"
+    date: "Apr 2019 - Present"
+    description: "Software Engineer 2 @ Microsoft"
   - image: "/img/timeline/cerner.png"
-    date: "Jun 2017 - Present"
+    date: "Jun 2017 - Apr 2019"
     description: "Software Engineer @ Cerner Corporation, Kansas City"
   - image: "/img/timeline/sice.png"
     date: "Aug 2016 - Dec 2016"
@@ -198,6 +201,9 @@ projects:
 #Open Source Contributions
 ##########
 open_source_contributions:
+    - title: "Azure SDK for python"
+      url: "https://github.com/Azure/azure-sdk-for-python"
+      description: "Developed SDKs for azure storage in python"
     - title: "Terra Notification Dialog"
       url: "https://www.npmjs.com/package/terra-notification-dialog"
       description: "terra-notification-dialog is a component built over the terra-abstract-modal. It is a common component to be used for confirmation/acceptance criteria style dialogs."
